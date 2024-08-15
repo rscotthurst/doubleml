@@ -1,0 +1,8 @@
+name: doubleml
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - doubleml
+  - jupyterlab
+  - conda-forge::xgboost
